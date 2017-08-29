@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1503986224 source:c:\users\a120091\desktop\teste\main.c
+	<stdio.h>
+	"Parser.h"
+
+1503986054 source:c:\users\a120091\desktop\teste\parser.c
+	"Parser.h"
+
+1503986054 source:c:\users\a120091\desktop\teste\pilha.c
+	"Pilha.h"
+
+1503983708 c:\users\a120091\desktop\teste\pilha.h
+
+1503982922 c:\users\a120091\desktop\teste\pilha.c
+	<stdio.h>
+
+1503989206 c:\users\a120091\desktop\teste\producoes.h
+
+1503986054 c:\users\a120091\desktop\teste\parser.c
+	"Parser.h"
+
+1503986054 c:\users\a120091\desktop\teste\parser.h
+	"Pilha.h"
+	"Producoes.h"
+
